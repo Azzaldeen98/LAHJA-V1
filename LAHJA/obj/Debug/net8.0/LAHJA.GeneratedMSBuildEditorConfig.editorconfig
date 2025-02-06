@@ -1,0 +1,1070 @@
+is_global = true
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudIllegalParameters = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LAHJA
+build_property.RootNamespace = LAHJA
+build_property.ProjectDir = C:\Users\pc\Source\Repos\LAHJA-V1\LAHJA\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\pc\Source\Repos\LAHJA-V1\LAHJA
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/Admins/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5zXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/Auths/Auth.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aHNcQXV0aC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/Auths/ForgetPassword.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aHNcRm9yZ2V0UGFzc3dvcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/CategoriesPlan/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1BsYW5cSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/FeatureServices/FeatureServices.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVhdHVyZVNlcnZpY2VzXEZlYXR1cmVTZXJ2aWNlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/Grants/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JhbnRzXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/Loading.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9hZGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/Logins/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5zXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/Payment/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFxJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/Profiles/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/Rigister/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmlnaXN0ZXJcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/Services/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/Studio/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGlvXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/TemplatePlans/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVtcGxhdGVQbGFuc1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/TrainingModel/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5pbmdNb2RlbFxJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Shared/NavMenuItems.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnVJdGVtcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Shared/SearchForm.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNlYXJjaEZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Abdulrahman/TabelAbdDashCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xBYmR1bHJhaG1hblxUYWJlbEFiZERhc2hDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Auth/ConfirmationEmail.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xBdXRoXENvbmZpcm1hdGlvbkVtYWlsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Auth/DialogBox - Copy.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xBdXRoXERpYWxvZ0JveCAtIENvcHkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Auth/DialogBox.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xBdXRoXERpYWxvZ0JveC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Auth/ForgetPasswordForm.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xBdXRoXEZvcmdldFBhc3N3b3JkRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Auth/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xBdXRoXExvZ291dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Auth/MainAuth.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xBdXRoXE1haW5BdXRoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Auth/ReCaptchaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xBdXRoXFJlQ2FwdGNoYUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Auth/ReSendConfirmationEmail.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xBdXRoXFJlU2VuZENvbmZpcm1hdGlvbkVtYWlsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Auth/ResetPasswordComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xBdXRoXFJlc2V0UGFzc3dvcmRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Auth/TemplateAuthForm.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xBdXRoXFRlbXBsYXRlQXV0aEZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Auth/TempVerificationCode.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xBdXRoXFRlbXBWZXJpZmljYXRpb25Db2RlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Base/AudioCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCYXNlXEF1ZGlvQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Base/ButtonCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCYXNlXEJ1dHRvbkNhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Base/IconCardBase.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCYXNlXEljb25DYXJkQmFzZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Base/InputCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCYXNlXElucHV0Q2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Base/InputCardD.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCYXNlXElucHV0Q2FyZEQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Base/TextAndIconBarCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCYXNlXFRleHRBbmRJY29uQmFyQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Base/TextAndIconCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCYXNlXFRleHRBbmRJY29uQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Base/TextBarCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCYXNlXFRleHRCYXJDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Base/TextCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCYXNlXFRleHRDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Billing/BillingInformaton/HeaderBilling.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCaWxsaW5nXEJpbGxpbmdJbmZvcm1hdG9uXEhlYWRlckJpbGxpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Billing/BillingInformaton/InvoicesSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCaWxsaW5nXEJpbGxpbmdJbmZvcm1hdG9uXEludm9pY2VzU2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Billing/BillingInformaton/LastPayment.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCaWxsaW5nXEJpbGxpbmdJbmZvcm1hdG9uXExhc3RQYXltZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Billing/BillingInformaton/MainSummaryBills.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCaWxsaW5nXEJpbGxpbmdJbmZvcm1hdG9uXE1haW5TdW1tYXJ5QmlsbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Billing/BillingSummarys/Components/StatisticeUseSubscription.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCaWxsaW5nXEJpbGxpbmdTdW1tYXJ5c1xDb21wb25lbnRzXFN0YXRpc3RpY2VVc2VTdWJzY3JpcHRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Billing/BillingSummarys/MainBilling.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCaWxsaW5nXEJpbGxpbmdTdW1tYXJ5c1xNYWluQmlsbGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Billing/BillingSummarys/MonthlyCharges.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCaWxsaW5nXEJpbGxpbmdTdW1tYXJ5c1xNb250aGx5Q2hhcmdlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Billing/BillingSummarys/PieChart.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCaWxsaW5nXEJpbGxpbmdTdW1tYXJ5c1xQaWVDaGFydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Billing/BillingSummarys/PlansCompire.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCaWxsaW5nXEJpbGxpbmdTdW1tYXJ5c1xQbGFuc0NvbXBpcmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Billing/BillingSummarys/SubscripPlan.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCaWxsaW5nXEJpbGxpbmdTdW1tYXJ5c1xTdWJzY3JpcFBsYW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Billing/Shared/BillingMethodsSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCaWxsaW5nXFNoYXJlZFxCaWxsaW5nTWV0aG9kc1NlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Billing/Shared/HeaderComponents.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCaWxsaW5nXFNoYXJlZFxIZWFkZXJDb21wb25lbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Billing/Shared/PaymentMethodsSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCaWxsaW5nXFNoYXJlZFxQYXltZW50TWV0aG9kc1NlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Button/CustomButton.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xCdXR0b25cQ3VzdG9tQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/CarosuelComponent/MainCarousel.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xDYXJvc3VlbENvbXBvbmVudFxNYWluQ2Fyb3VzZWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/CarosuelComponent/TempleteCarouselService.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xDYXJvc3VlbENvbXBvbmVudFxUZW1wbGV0ZUNhcm91c2VsU2VydmljZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Category/MainCategory.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xDYXRlZ29yeVxNYWluQ2F0ZWdvcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Category/MainComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xDYXRlZ29yeVxNYWluQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Category/TemplateCategoryCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xDYXRlZ29yeVxUZW1wbGF0ZUNhdGVnb3J5Q2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Category/TemplateServecCompoent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xDYXRlZ29yeVxUZW1wbGF0ZVNlcnZlY0NvbXBvZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/CreditCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xDcmVkaXRDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/CustomComponent/CreditCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xDdXN0b21Db21wb25lbnRcQ3JlZGl0Q2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Custom/OverlayComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xDdXN0b21cT3ZlcmxheUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/FAQ/FAQComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xGQVFcRkFRQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/FeatureServices/FeatureModelLahjaModel.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xGZWF0dXJlU2VydmljZXNcRmVhdHVyZU1vZGVsTGFoamFNb2RlbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/FeatureServices/ProductLahjaModel.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xGZWF0dXJlU2VydmljZXNcUHJvZHVjdExhaGphTW9kZWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/FeatureServices/StartStepLahjaModel.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xGZWF0dXJlU2VydmljZXNcU3RhcnRTdGVwTGFoamFNb2RlbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/HomeComponent/HeroHome.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xIb21lQ29tcG9uZW50XEhlcm9Ib21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/HomeComponent/OffersHome.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xIb21lQ29tcG9uZW50XE9mZmVyc0hvbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/HomeComponent/OurServicesHome.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xIb21lQ29tcG9uZW50XE91clNlcnZpY2VzSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/HomeComponent/TestimonialsHome.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xIb21lQ29tcG9uZW50XFRlc3RpbW9uaWFsc0hvbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/HomeComponent/VideoSectionHome.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xIb21lQ29tcG9uZW50XFZpZGVvU2VjdGlvbkhvbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/IconCard/IconCardSevicis.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJY29uQ2FyZFxJY29uQ2FyZFNldmljaXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/IconCard/ListIconCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJY29uQ2FyZFxMaXN0SWNvbkNhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Icon/CardShowExperience.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJY29uXENhcmRTaG93RXhwZXJpZW5jZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Icon/IconManin.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJY29uXEljb25NYW5pbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Icon/Mainicon.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJY29uXE1haW5pY29uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Icon/ServicisCard/IconCardSevicis.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJY29uXFNlcnZpY2lzQ2FyZFxJY29uQ2FyZFNldmljaXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Icon/ServicisCard/IconrebotCardSevicis.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJY29uXFNlcnZpY2lzQ2FyZFxJY29ucmVib3RDYXJkU2V2aWNpcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Icon/ServicisCard/ItemrebotIcons.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJY29uXFNlcnZpY2lzQ2FyZFxJdGVtcmVib3RJY29ucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Icon/ServicisCard/ItemsIcons.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJY29uXFNlcnZpY2lzQ2FyZFxJdGVtc0ljb25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Icon/ServicisCard/Relative.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJY29uXFNlcnZpY2lzQ2FyZFxSZWxhdGl2ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Icon/ServicisCard/SectionSercicis.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJY29uXFNlcnZpY2lzQ2FyZFxTZWN0aW9uU2VyY2ljaXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Icon/TestimonialCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJY29uXFRlc3RpbW9uaWFsQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/IframeCompoents/IframeCompoent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJZnJhbWVDb21wb2VudHNcSWZyYW1lQ29tcG9lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Index/AnmCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJbmRleFxBbm1DYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Index/AsgCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJbmRleFxBc2dDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Index/BoosCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJbmRleFxCb29zQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Index/BootsCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJbmRleFxCb290c0NhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Index/CardAsgFeatures.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJbmRleFxDYXJkQXNnRmVhdHVyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Index/CardAsgr.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJbmRleFxDYXJkQXNnci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Index/CardStart.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJbmRleFxDYXJkU3RhcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Index/Comcart.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJbmRleFxDb21jYXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Index/FeatureCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJbmRleFxGZWF0dXJlQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Index/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJbmRleFxGb290ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Index/HeroHome.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJbmRleFxIZXJvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Index/IamgCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJbmRleFxJYW1nQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Index/MainSectionCard/MainSectionCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJbmRleFxNYWluU2VjdGlvbkNhcmRcTWFpblNlY3Rpb25DYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Index/NumberCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJbmRleFxOdW1iZXJDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Index/TabelDashCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xJbmRleFxUYWJlbERhc2hDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/LoaderComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xMb2FkZXJDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/MessageBoxDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xNZXNzYWdlQm94RGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Payment/CreditCard/FormBilling.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQYXltZW50XENyZWRpdENhcmRcRm9ybUJpbGxpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Payment/CreditCard/FormCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQYXltZW50XENyZWRpdENhcmRcRm9ybUNhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Payment/CreditCard/FormCardComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQYXltZW50XENyZWRpdENhcmRcRm9ybUNhcmRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Payment/MainPaymant.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQYXltZW50XE1haW5QYXltYW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Payment/PaymentComponts.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQYXltZW50XFBheW1lbnRDb21wb250cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Payment/UpgradePlan.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQYXltZW50XFVwZ3JhZGVQbGFuLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Pige/HomeCompoent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQaWdlXEhvbWVDb21wb2VudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Plan/FeaturePlanCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQbGFuXEZlYXR1cmVQbGFuQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Plan/MainPlan.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQbGFuXE1haW5QbGFuLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Plan/MudDialogEditNumberFeture.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQbGFuXE11ZERpYWxvZ0VkaXROdW1iZXJGZXR1cmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Plan/MudDialogTemplatePlan.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQbGFuXE11ZERpYWxvZ1RlbXBsYXRlUGxhbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Plan/NumberFeture.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQbGFuXE51bWJlckZldHVyZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Plan/TechnologyFeture.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQbGFuXFRlY2hub2xvZ3lGZXR1cmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Plan/TemplatePlan.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQbGFuXFRlbXBsYXRlUGxhbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Playground/CustomFooter.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQbGF5Z3JvdW5kXEN1c3RvbUZvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Playground/Customlayout.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQbGF5Z3JvdW5kXEN1c3RvbWxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Playground/CustomPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQbGF5Z3JvdW5kXEN1c3RvbVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Playground/Modelpage.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQbGF5Z3JvdW5kXE1vZGVscGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Playground/ModelSettings.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQbGF5Z3JvdW5kXE1vZGVsU2V0dGluZ3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Playground/USEREnter.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQbGF5Z3JvdW5kXFVTRVJFbnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Cards/UserAvaterCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXENhcmRzXFVzZXJBdmF0ZXJDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Charts/BarChart.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXENoYXJ0c1xCYXJDaGFydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Charts/DonutChart.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXENoYXJ0c1xEb251dENoYXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Charts/LineChart.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXENoYXJ0c1xMaW5lQ2hhcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Charts/PieChart.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXENoYXJ0c1xQaWVDaGFydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Charts/TimeSeriesChart.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXENoYXJ0c1xUaW1lU2VyaWVzQ2hhcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXERhc2hib2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/MainProfile.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXE1haW5Qcm9maWxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/PlansCompireCompoent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFBsYW5zQ29tcGlyZUNvbXBvZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/ResendConfirmationemail.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFJlc2VuZENvbmZpcm1hdGlvbmVtYWlsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/SettingshomProfile.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzaG9tUHJvZmlsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/AccessTokensTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXEFjY2Vzc1Rva2Vuc1RlbXBsYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/AccountTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXEFjY291bnRUZW1wbGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/AuthenticationTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXEF1dGhlbnRpY2F0aW9uVGVtcGxhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/BillingOverview.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXEJpbGxpbmdPdmVydmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/ConnectedAppsTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXENvbm5lY3RlZEFwcHNUZW1wbGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/ContentPreferencesTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXENvbnRlbnRQcmVmZXJlbmNlc1RlbXBsYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/GatedRepositoriesTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXEdhdGVkUmVwb3NpdG9yaWVzVGVtcGxhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/Keysaddapgpp.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXEtleXNhZGRhcGdwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/KeysAddaSSHkey.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXEtleXNBZGRhU1NIa2V5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/LocalAppsTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXExvY2FsQXBwc1RlbXBsYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/NewCreateanOAuthapp.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXE5ld0NyZWF0ZWFuT0F1dGhhcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/Newwebhook.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXE5ld3dlYmhvb2sucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/NotificationsTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXE5vdGlmaWNhdGlvbnNUZW1wbGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/OrganizationsTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXE9yZ2FuaXphdGlvbnNUZW1wbGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/PapersTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXFBhcGVyc1RlbXBsYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/ProfileForm.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXFByb2ZpbGVGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/Spaces.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXFNwYWNlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/SSHandGPGKeysTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXFNTSGFuZEdQR0tleXNUZW1wbGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/Subscription.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXFN1YnNjcmlwdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/ThemeTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXFRoZW1lVGVtcGxhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/Settings/WebhooksTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFNldHRpbmdzXFdlYmhvb2tzVGVtcGxhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/TamltSettings.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFRhbWx0U2V0dGluZ3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/UserNameSettinge.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFVzZXJOYW1lU2V0dGluZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/UserSettings.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFVzZXJTZXR0aW5ncy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/USettings/BillingPayment.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFVTZXR0aW5nc1xCaWxsaW5nUGF5bWVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/USettings/BillingSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFVTZXR0aW5nc1xCaWxsaW5nU2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/USettings/Storage.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFVTZXR0aW5nc1xTdG9yYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ProFile/USettings/UsageCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xQcm9GaWxlXFVTZXR0aW5nc1xVc2FnZUNhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ServiceCard/AddFormFilter.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTZXJ2aWNlQ2FyZFxBZGRGb3JtRmlsdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ServiceCard/CardShowExperience.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTZXJ2aWNlQ2FyZFxDYXJkU2hvd0V4cGVyaWVuY2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ServiceCard/DialogContent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTZXJ2aWNlQ2FyZFxEaWFsb2dDb250ZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ServiceCard/DialogFilterMobile.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTZXJ2aWNlQ2FyZFxEaWFsb2dGaWx0ZXJNb2JpbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ServiceCard/DialogUsageExample_Dialog.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTZXJ2aWNlQ2FyZFxEaWFsb2dVc2FnZUV4YW1wbGVfRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ServiceCard/Main2CardService.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTZXJ2aWNlQ2FyZFxNYWluMkNhcmRTZXJ2aWNlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ServiceCard/Main3CardService.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTZXJ2aWNlQ2FyZFxNYWluM0NhcmRTZXJ2aWNlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ServiceCard/MainCardService.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTZXJ2aWNlQ2FyZFxNYWluQ2FyZFNlcnZpY2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ServiceCard/MudDialogPalySound.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTZXJ2aWNlQ2FyZFxNdWREaWFsb2dQYWx5U291bmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ServiceCard/TableServiceModelCompoent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTZXJ2aWNlQ2FyZFxUYWJsZVNlcnZpY2VNb2RlbENvbXBvZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ServiceCard/TextToDialectCompoent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTZXJ2aWNlQ2FyZFxUZXh0VG9EaWFsZWN0Q29tcG9lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/ServiceCard/TextToSpeechCompoent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTZXJ2aWNlQ2FyZFxUZXh0VG9TcGVlY2hDb21wb2VudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/SoundShow/MainSoundCompoent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTb3VuZFNob3dcTWFpblNvdW5kQ29tcG9lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/SoundShow/ServiceInforMationCompent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTb3VuZFNob3dcU2VydmljZUluZm9yTWF0aW9uQ29tcGVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/SoundShow/SliderComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTb3VuZFNob3dcU2xpZGVyQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/SoundShow/SliderWasmdashai.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTb3VuZFNob3dcU2xpZGVyV2FzbWRhc2hhaS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/SoundShow/T2T/AddFormTextOrSpeech.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTb3VuZFNob3dcVDJUXEFkZEZvcm1UZXh0T3JTcGVlY2gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/SoundShow/T2T/FormT2TT.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTb3VuZFNob3dcVDJUXEZvcm1UMlRULnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/SoundShow/T2T/HeaderTextAndSpeechCompoent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTb3VuZFNob3dcVDJUXEhlYWRlclRleHRBbmRTcGVlY2hDb21wb2VudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/SoundShow/T2T/InformationService.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTb3VuZFNob3dcVDJUXEluZm9ybWF0aW9uU2VydmljZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/SoundShow/T2T/MainTemPServiceT2T.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTb3VuZFNob3dcVDJUXE1haW5UZW1QU2VydmljZVQyVC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/SoundShow/T2T/ModelsServices.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTb3VuZFNob3dcVDJUXE1vZGVsc1NlcnZpY2VzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/SoundShow/T2T/PlanServiceCompoent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTb3VuZFNob3dcVDJUXFBsYW5TZXJ2aWNlQ29tcG9lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Statistics/BarChartViews.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdGF0aXN0aWNzXEJhckNoYXJ0Vmlld3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Statistics/BrushScrolledView.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdGF0aXN0aWNzXEJydXNoU2Nyb2xsZWRWaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Statistics/MainPieChart.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdGF0aXN0aWNzXE1haW5QaWVDaGFydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Statistics/PieChartAll.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdGF0aXN0aWNzXFBpZUNoYXJ0QWxsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/StudioLahjaAi/ChatT2Text.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdHVkaW9MYWhqYUFpXENoYXRUMlRleHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/StudioLahjaAi/Component/FilterItemSelected.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdHVkaW9MYWhqYUFpXENvbXBvbmVudFxGaWx0ZXJJdGVtU2VsZWN0ZWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/StudioLahjaAi/Component/FilterOptions.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdHVkaW9MYWhqYUFpXENvbXBvbmVudFxGaWx0ZXJPcHRpb25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/StudioLahjaAi/Component/GroupFilters.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdHVkaW9MYWhqYUFpXENvbXBvbmVudFxHcm91cEZpbHRlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/StudioLahjaAi/Component/MessageComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdHVkaW9MYWhqYUFpXENvbXBvbmVudFxNZXNzYWdlQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/StudioLahjaAi/ContenerChatComponentCopy - Copy.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdHVkaW9MYWhqYUFpXENvbnRlbmVyQ2hhdENvbXBvbmVudENvcHkgLSBDb3B5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/StudioLahjaAi/GetApiAi.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdHVkaW9MYWhqYUFpXEdldEFwaUFpLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/StudioLahjaAi/LogChangeModelCompoent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdHVkaW9MYWhqYUFpXExvZ0NoYW5nZU1vZGVsQ29tcG9lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/StudioLahjaAi/MainStudio.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdHVkaW9MYWhqYUFpXE1haW5TdHVkaW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/StudioLahjaAi/StartStudio.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdHVkaW9MYWhqYUFpXFN0YXJ0U3R1ZGlvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/StudioLahjaAi/T2Speech.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdHVkaW9MYWhqYUFpXFQyU3BlZWNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/StudioLahjaAi/T2SpeechLive.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdHVkaW9MYWhqYUFpXFQyU3BlZWNoTGl2ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/StudioLahjaAi/T2Text.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdHVkaW9MYWhqYUFpXFQyVGV4dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/StudioLahjaAi/VoiceChat.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xTdHVkaW9MYWhqYUFpXFZvaWNlQ2hhdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/TabelCard/ActionTabelCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUYWJlbENhcmRcQWN0aW9uVGFiZWxDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/TabelCard/ButtonCardCreate.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUYWJlbENhcmRcQnV0dG9uQ2FyZENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/TabelCard/CellCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUYWJlbENhcmRcQ2VsbENhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/TabelCard/PlanCreateStart.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUYWJlbENhcmRcUGxhbkNyZWF0ZVN0YXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/TabelCard/StateCell.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUYWJlbENhcmRcU3RhdGVDZWxsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/TabelCard/StateCountCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUYWJlbENhcmRcU3RhdGVDb3VudENhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/TabelCard/TabelAbdDashCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUYWJlbENhcmRcVGFiZWxBYmREYXNoQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/TabelCard/TabelDashCard.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUYWJlbENhcmRcVGFiZWxEYXNoQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/TabelCard/TabelData.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUYWJlbENhcmRcVGFiZWxEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/TabelCard/TitelBar.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUYWJlbENhcmRcVGl0ZWxCYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/TestimonialsHome.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUZXN0aW1vbmlhbHNIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Training/CategryTrinning.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUcmFpbmluZ1xDYXRlZ3J5VHJpbm5pbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Training/FormTrainning.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUcmFpbmluZ1xGb3JtVHJhaW5uaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Training/MainTrinningCompoent - Copy.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUcmFpbmluZ1xNYWluVHJpbm5pbmdDb21wb2VudCAtIENvcHkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Training/MainTrinningCompoent.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUcmFpbmluZ1xNYWluVHJpbm5pbmdDb21wb2VudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Training/TabelStateTinning.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUcmFpbmluZ1xUYWJlbFN0YXRlVGlubmluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/Training/VideoSectionHome.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xUcmFpbmluZ1xWaWRlb1NlY3Rpb25Ib21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/VideoSection.razor.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xWaWRlb1NlY3Rpb24ucmF6b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Components/VideoSectionHome.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcQ29tcG9uZW50c1xWaWRlb1NlY3Rpb25Ib21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Auth/TemplateAuth.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXEF1dGhcVGVtcGxhdGVBdXRoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Auth/TemplateConfirmEmail.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXEF1dGhcVGVtcGxhdGVDb25maXJtRW1haWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Auth/TemplateForgetPassword.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXEF1dGhcVGVtcGxhdGVGb3JnZXRQYXNzd29yZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Auth/TemplateReSendConfirmationEmail.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXEF1dGhcVGVtcGxhdGVSZVNlbmRDb25maXJtYXRpb25FbWFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Auth/TemplateResetPassword.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXEF1dGhcVGVtcGxhdGVSZXNldFBhc3N3b3JkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Billing/TemplateBilling.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXEJpbGxpbmdcVGVtcGxhdGVCaWxsaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Carousel/TemplateCarousel.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXENhcm91c2VsXFRlbXBsYXRlQ2Fyb3VzZWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/CategoriesPlan/TemplateCategoriesPlan.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXENhdGVnb3JpZXNQbGFuXFRlbXBsYXRlQ2F0ZWdvcmllc1BsYW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Payment/TemplatePayment.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFBheW1lbnRcVGVtcGxhdGVQYXltZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Plans/TemplatePlans.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFBsYW5zXFRlbXBsYXRlUGxhbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Profile/SubscriptionTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFByb2ZpbGVcU3Vic2NyaXB0aW9uVGVtcGxhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Profile/TemplateProfile.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFByb2ZpbGVcVGVtcGxhdGVQcm9maWxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Profile/TemplateSpaces.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFByb2ZpbGVcVGVtcGxhdGVTcGFjZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Base/FooterSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEJhc2VcRm9vdGVyU2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Base/HeaderSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEJhc2VcSGVhZGVyU2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Home/AdvertisementSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEhvbWVcQWR2ZXJ0aXNlbWVudFNlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Home/AudioGallerySection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEhvbWVcQXVkaW9HYWxsZXJ5U2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Home/BenefitsSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEhvbWVcQmVuZWZpdHNTZWN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Home/ExpertTeamSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEhvbWVcRXhwZXJ0VGVhbVNlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Home/FeatureSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEhvbWVcRmVhdHVyZVNlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Home/HeroSection - Copy.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEhvbWVcSGVyb1NlY3Rpb24gLSBDb3B5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Home/HeroSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEhvbWVcSGVyb1NlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Home/ImageGallerySection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEhvbWVcSW1hZ2VHYWxsZXJ5U2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Home/MultiContentGallerySection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEhvbWVcTXVsdGlDb250ZW50R2FsbGVyeVNlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Home/NewsSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEhvbWVcTmV3c1NlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Home/Pricing Section.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEhvbWVcUHJpY2luZyBTZWN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Home/ResourcesSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEhvbWVcUmVzb3VyY2VzU2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Home/ServicesSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEhvbWVcU2VydmljZXNTZWN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Home/TestimonialsSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEhvbWVcVGVzdGltb25pYWxzU2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Home/VideoGallerySection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXEhvbWVcVmlkZW9HYWxsZXJ5U2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Plans/PlanSubscriptionSection.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXFBsYW5zXFBsYW5TdWJzY3JpcHRpb25TZWN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Sections/Plans/Pricing Section.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlY3Rpb25zXFBsYW5zXFByaWNpbmcgU2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Services/TemplateServices.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFNlcnZpY2VzXFRlbXBsYXRlU2VydmljZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/UI/Templates/Studio/TemplateStudio.razor]
+build_metadata.AdditionalFiles.TargetPath = VUlcVGVtcGxhdGVzXFN0dWRpb1xUZW1wbGF0ZVN0dWRpby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-nib9c40eif
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9nj8pr0wie
+
+[C:/Users/pc/Source/Repos/LAHJA-V1/LAHJA/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

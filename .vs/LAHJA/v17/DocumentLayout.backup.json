@@ -1,0 +1,931 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\ui\\components\\studiolahjaai\\mainstudio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\ui\\components\\studiolahjaai\\mainstudio.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\ui\\templates\\plans\\templateplans.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\ui\\templates\\plans\\templateplans.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\data\\ui\\templates\\plans\\templateplans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\data\\ui\\templates\\plans\\templateplans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\ui\\templates\\payment\\templatepayment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\ui\\templates\\payment\\templatepayment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\applicationlayer\\plans\\plansclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\applicationlayer\\plans\\plansclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9ABED51-4D52-4300-BC2C-56A50D5AE8D8}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\application\\services\\plans\\plansservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9ABED51-4D52-4300-BC2C-56A50D5AE8D8}|Application\\Application.csproj|solutionrelative:application\\services\\plans\\plansservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9ABED51-4D52-4300-BC2C-56A50D5AE8D8}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\application\\applicationconfigservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9ABED51-4D52-4300-BC2C-56A50D5AE8D8}|Application\\Application.csproj|solutionrelative:application\\applicationconfigservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9ABED51-4D52-4300-BC2C-56A50D5AE8D8}|Application\\Application.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\application\\usecase\\plans\\get\\getallsubscriptionsplansusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9ABED51-4D52-4300-BC2C-56A50D5AE8D8}|Application\\Application.csproj|solutionrelative:application\\usecase\\plans\\get\\getallsubscriptionsplansusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\mappings\\infrastructuremappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mappings\\infrastructuremappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\models\\filterresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\filterresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\datasource\\apiclientfactory\\nswag\\webclientapi2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\datasource\\apiclientfactory\\nswag\\webclientapi2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\models\\modelgateway\\modelgatewayrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\modelgateway\\modelgatewayrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\repository\\auth\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\auth\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\domain\\repository\\auth\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|solutionrelative:domain\\repository\\auth\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\repository\\authorizationsession\\authorizationsessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\authorizationsession\\authorizationsessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\datasource\\apiclient\\setting\\settingsapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\datasource\\apiclient\\setting\\settingsapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\repository\\setting\\settingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\setting\\settingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\mappings\\infrastructureremotemappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mappings\\infrastructureremotemappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\infrastructureconfigservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructureconfigservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\domain\\repository\\authorizationsession\\iauthorizationsessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|solutionrelative:domain\\repository\\authorizationsession\\iauthorizationsessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\models\\authorizationsession\\validatetokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\authorizationsession\\validatetokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\domain\\entities\\authorizationsession\\validatetokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\authorizationsession\\validatetokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\domain\\repository\\modelgateway\\imodelgatewayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|solutionrelative:domain\\repository\\modelgateway\\imodelgatewayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\repository\\modelgateway\\modelgatewayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\modelgateway\\modelgatewayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\datasource\\apiclient\\authorizationsession\\authorizationsessionapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\datasource\\apiclient\\authorizationsession\\authorizationsessionapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\models\\authorizationsession\\authorizationcorerequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\authorizationsession\\authorizationcorerequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\models\\authorizationsession\\authorizationsessioncoreresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\authorizationsession\\authorizationsessioncoreresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\models\\authorizationsession\\authorizationsessionwebresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\authorizationsession\\authorizationsessionwebresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\datasource\\apiclientfactory\\nswag\\webclientapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\datasource\\apiclientfactory\\nswag\\webclientapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\datasource\\apiclientfactory\\clientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\datasource\\apiclientfactory\\clientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\datasource\\apiclient\\modelgateway\\modelgatewayapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\datasource\\apiclient\\modelgateway\\modelgatewayapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\domain\\sharedata\\modelgateway\\modelgatewayrequestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|solutionrelative:domain\\sharedata\\modelgateway\\modelgatewayrequestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\repository\\creditcard\\billingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\creditcard\\billingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\repository\\request\\requestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\request\\requestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\repository\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\infrastructure\\datasource\\apiclient\\payment\\paymentapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F1202A-B006-4052-AD7B-D107C1961ED3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\datasource\\apiclient\\payment\\paymentapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\domain\\entities\\modelgateway\\modelgatewayresponsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\modelgateway\\modelgatewayresponsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\domain\\sharedata\\imanagelanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|solutionrelative:domain\\sharedata\\imanagelanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\shared\\navmenuitems.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\shared\\navmenuitems.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\data\\ui\\templates\\profile\\profiletemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\data\\ui\\templates\\profile\\profiletemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\ui\\components\\profile\\settings\\spaces.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\ui\\components\\profile\\settings\\spaces.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\ui\\components\\profile\\settingshomprofile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\ui\\components\\profile\\settingshomprofile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\ui\\components\\profile\\settings\\subscription.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\ui\\components\\profile\\settings\\subscription.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\ui\\templates\\profile\\subscriptiontemplate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\ui\\templates\\profile\\subscriptiontemplate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\ui\\templates\\profile\\templatespaces.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\ui\\templates\\profile\\templatespaces.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\mappings\\lahjamappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\mappings\\lahjamappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\ui\\components\\profile\\cards\\useravatercard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\ui\\components\\profile\\cards\\useravatercard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\domain\\sharedata\\profile\\userresponsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{924DE491-8B5A-435A-B41C-E51D18787D8B}|Domain\\Domain.csproj|solutionrelative:domain\\sharedata\\profile\\userresponsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\data\\ui\\components\\profile\\profilemodel\\databuilduserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\data\\ui\\components\\profile\\profilemodel\\databuilduserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|c:\\users\\pc\\source\\repos\\lahja-v1\\lahja\\ui\\components\\studiolahjaai\\t2speech.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2560A77-0CAF-4B3A-BDB6-617E4595AD7A}|LAHJA\\LAHJA.csproj|solutionrelative:lahja\\ui\\components\\studiolahjaai\\t2speech.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemplatePlans.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Templates\\Plans\\TemplatePlans.razor",
+              "RelativeDocumentMoniker": "LAHJA\\UI\\Templates\\Plans\\TemplatePlans.razor",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Templates\\Plans\\TemplatePlans.razor",
+              "RelativeToolTip": "LAHJA\\UI\\Templates\\Plans\\TemplatePlans.razor",
+              "ViewState": "AgIAABwAAAAAAAAAAAAewCcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T16:34:50.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TemplatePayment.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Templates\\Payment\\TemplatePayment.razor",
+              "RelativeDocumentMoniker": "LAHJA\\UI\\Templates\\Payment\\TemplatePayment.razor",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Templates\\Payment\\TemplatePayment.razor",
+              "RelativeToolTip": "LAHJA\\UI\\Templates\\Payment\\TemplatePayment.razor",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAewEoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T16:34:04.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemplatePlans.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\Data\\UI\\Templates\\Plans\\TemplatePlans.cs",
+              "RelativeDocumentMoniker": "LAHJA\\Data\\UI\\Templates\\Plans\\TemplatePlans.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\Data\\UI\\Templates\\Plans\\TemplatePlans.cs",
+              "RelativeToolTip": "LAHJA\\Data\\UI\\Templates\\Plans\\TemplatePlans.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAUwDYBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:27:57.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlansClientService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\ApplicationLayer\\Plans\\PlansClientService.cs",
+              "RelativeDocumentMoniker": "LAHJA\\ApplicationLayer\\Plans\\PlansClientService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\ApplicationLayer\\Plans\\PlansClientService.cs",
+              "RelativeToolTip": "LAHJA\\ApplicationLayer\\Plans\\PlansClientService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:26:12.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationConfigServices.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Application\\ApplicationConfigServices.cs",
+              "RelativeDocumentMoniker": "Application\\ApplicationConfigServices.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Application\\ApplicationConfigServices.cs",
+              "RelativeToolTip": "Application\\ApplicationConfigServices.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:22:44.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllSubscriptionsPlansUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Application\\UseCase\\Plans\\Get\\GetAllSubscriptionsPlansUseCase.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\Plans\\Get\\GetAllSubscriptionsPlansUseCase.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Application\\UseCase\\Plans\\Get\\GetAllSubscriptionsPlansUseCase.cs",
+              "RelativeToolTip": "Application\\UseCase\\Plans\\Get\\GetAllSubscriptionsPlansUseCase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:22:05.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlansService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Application\\Services\\Plans\\PlansService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Plans\\PlansService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Application\\Services\\Plans\\PlansService.cs",
+              "RelativeToolTip": "Application\\Services\\Plans\\PlansService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:21:17.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainStudio.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Components\\StudioLahjaAi\\MainStudio.razor",
+              "RelativeDocumentMoniker": "LAHJA\\UI\\Components\\StudioLahjaAi\\MainStudio.razor",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Components\\StudioLahjaAi\\MainStudio.razor",
+              "RelativeToolTip": "LAHJA\\UI\\Components\\StudioLahjaAi\\MainStudio.razor",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAwwK8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T23:28:40.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FilterResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Models\\FilterResponseModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\FilterResponseModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Models\\FilterResponseModel.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\FilterResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:09:52.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModelGatewayRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Models\\ModelGateway\\ModelGatewayRequestModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\ModelGateway\\ModelGatewayRequestModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Models\\ModelGateway\\ModelGatewayRequestModel.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\ModelGateway\\ModelGatewayRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:49:26.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Domain\\Repository\\Auth\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repository\\Auth\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Domain\\Repository\\Auth\\IAuthRepository.cs",
+              "RelativeToolTip": "Domain\\Repository\\Auth\\IAuthRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:47:20.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Repository\\Auth\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\Auth\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Repository\\Auth\\AuthRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\Auth\\AuthRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:45:47.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InfrastructureMappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Mappings\\InfrastructureMappingConfig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Mappings\\InfrastructureMappingConfig.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Mappings\\InfrastructureMappingConfig.cs",
+              "RelativeToolTip": "Infrastructure\\Mappings\\InfrastructureMappingConfig.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:40:28.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SettingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Repository\\Setting\\SettingRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\Setting\\SettingRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Repository\\Setting\\SettingRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\Setting\\SettingRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwCwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:43:58.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SettingsApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\DataSource\\ApiClient\\Setting\\SettingsApiClient.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DataSource\\ApiClient\\Setting\\SettingsApiClient.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\DataSource\\ApiClient\\Setting\\SettingsApiClient.cs",
+              "RelativeToolTip": "Infrastructure\\DataSource\\ApiClient\\Setting\\SettingsApiClient.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:30:42.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthorizationSessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Source\\Repos\\LAHJA-V1\\Infrastructure\\Repository\\AuthorizationSession\\AuthorizationSessionRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\AuthorizationSession\\AuthorizationSessionRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\Source\\Repos\\LAHJA-V1\\Infrastructure\\Repository\\AuthorizationSession\\AuthorizationSessionRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\AuthorizationSession\\AuthorizationSessionRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:26:42.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebClientApi2.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\DataSource\\ApiClientFactory\\Nswag\\WebClientApi2.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DataSource\\ApiClientFactory\\Nswag\\WebClientApi2.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\DataSource\\ApiClientFactory\\Nswag\\WebClientApi2.cs",
+              "RelativeToolTip": "Infrastructure\\DataSource\\ApiClientFactory\\Nswag\\WebClientApi2.cs",
+              "ViewState": "AgIAAHoeAAAAAAAAAADgv4YeAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:46:34.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ValidateTokenRequest.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Source\\Repos\\LAHJA-V1\\Domain\\Entities\\AuthorizationSession\\ValidateTokenRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\AuthorizationSession\\ValidateTokenRequest.cs",
+              "ToolTip": "C:\\Users\\pc\\Source\\Repos\\LAHJA-V1\\Domain\\Entities\\AuthorizationSession\\ValidateTokenRequest.cs",
+              "RelativeToolTip": "Domain\\Entities\\AuthorizationSession\\ValidateTokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:25:33.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAuthorizationSessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Domain\\Repository\\AuthorizationSession\\IAuthorizationSessionRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repository\\AuthorizationSession\\IAuthorizationSessionRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Domain\\Repository\\AuthorizationSession\\IAuthorizationSessionRepository.cs",
+              "RelativeToolTip": "Domain\\Repository\\AuthorizationSession\\IAuthorizationSessionRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:23:58.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ValidateTokenRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Source\\Repos\\LAHJA-V1\\Infrastructure\\Models\\AuthorizationSession\\ValidateTokenRequestModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\AuthorizationSession\\ValidateTokenRequestModel.cs",
+              "ToolTip": "C:\\Users\\pc\\Source\\Repos\\LAHJA-V1\\Infrastructure\\Models\\AuthorizationSession\\ValidateTokenRequestModel.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\AuthorizationSession\\ValidateTokenRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:09:08.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InfrastructureRemoteMappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Mappings\\InfrastructureRemoteMappingConfig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Mappings\\InfrastructureRemoteMappingConfig.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Mappings\\InfrastructureRemoteMappingConfig.cs",
+              "RelativeToolTip": "Infrastructure\\Mappings\\InfrastructureRemoteMappingConfig.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAawGAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:40:04.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthorizationSessionApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Source\\Repos\\LAHJA-V1\\Infrastructure\\DataSource\\ApiClient\\AuthorizationSession\\AuthorizationSessionApiClient.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DataSource\\ApiClient\\AuthorizationSession\\AuthorizationSessionApiClient.cs",
+              "ToolTip": "C:\\Users\\pc\\Source\\Repos\\LAHJA-V1\\Infrastructure\\DataSource\\ApiClient\\AuthorizationSession\\AuthorizationSessionApiClient.cs",
+              "RelativeToolTip": "Infrastructure\\DataSource\\ApiClient\\AuthorizationSession\\AuthorizationSessionApiClient.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:40:57.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InfrastructureConfigServices.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\InfrastructureConfigServices.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\InfrastructureConfigServices.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\InfrastructureConfigServices.cs",
+              "RelativeToolTip": "Infrastructure\\InfrastructureConfigServices.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAswIkAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:53:39.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ModelGatewayRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Source\\Repos\\LAHJA-V1\\Infrastructure\\Repository\\ModelGateway\\ModelGatewayRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ModelGateway\\ModelGatewayRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\Source\\Repos\\LAHJA-V1\\Infrastructure\\Repository\\ModelGateway\\ModelGatewayRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ModelGateway\\ModelGatewayRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:00:40.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IModelGatewayRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Source\\Repos\\LAHJA-V1\\Domain\\Repository\\ModelGateway\\IModelGatewayRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repository\\ModelGateway\\IModelGatewayRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\Source\\Repos\\LAHJA-V1\\Domain\\Repository\\ModelGateway\\IModelGatewayRepository.cs",
+              "RelativeToolTip": "Domain\\Repository\\ModelGateway\\IModelGatewayRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:01:06.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthorizationCoreRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Models\\AuthorizationSession\\AuthorizationCoreRequestModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\AuthorizationSession\\AuthorizationCoreRequestModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Models\\AuthorizationSession\\AuthorizationCoreRequestModel.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\AuthorizationSession\\AuthorizationCoreRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:56:14.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthorizationSessionCoreResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Models\\AuthorizationSession\\AuthorizationSessionCoreResponseModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\AuthorizationSession\\AuthorizationSessionCoreResponseModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Models\\AuthorizationSession\\AuthorizationSessionCoreResponseModel.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\AuthorizationSession\\AuthorizationSessionCoreResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:42:30.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthorizationSessionWebResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Models\\AuthorizationSession\\AuthorizationSessionWebResponseModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\AuthorizationSession\\AuthorizationSessionWebResponseModel.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Models\\AuthorizationSession\\AuthorizationSessionWebResponseModel.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\AuthorizationSession\\AuthorizationSessionWebResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:50:57.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WebClientApi.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\DataSource\\ApiClientFactory\\Nswag\\WebClientApi.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DataSource\\ApiClientFactory\\Nswag\\WebClientApi.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\DataSource\\ApiClientFactory\\Nswag\\WebClientApi.cs",
+              "RelativeToolTip": "Infrastructure\\DataSource\\ApiClientFactory\\Nswag\\WebClientApi.cs",
+              "ViewState": "AgIAAOuLAAAAAAAAAAAiwPOLAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:41:31.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ModelGatewayRequestBase.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Domain\\ShareData\\ModelGateway\\ModelGatewayRequestBase.cs",
+              "RelativeDocumentMoniker": "Domain\\ShareData\\ModelGateway\\ModelGatewayRequestBase.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Domain\\ShareData\\ModelGateway\\ModelGatewayRequestBase.cs",
+              "RelativeToolTip": "Domain\\ShareData\\ModelGateway\\ModelGatewayRequestBase.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:19:31.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ModelGatewayApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Source\\Repos\\LAHJA-V1\\Infrastructure\\DataSource\\ApiClient\\ModelGateway\\ModelGatewayApiClient.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DataSource\\ApiClient\\ModelGateway\\ModelGatewayApiClient.cs",
+              "ToolTip": "C:\\Users\\pc\\Source\\Repos\\LAHJA-V1\\Infrastructure\\DataSource\\ApiClient\\ModelGateway\\ModelGatewayApiClient.cs",
+              "RelativeToolTip": "Infrastructure\\DataSource\\ApiClient\\ModelGateway\\ModelGatewayApiClient.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:34:50.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\DataSource\\ApiClientFactory\\ClientFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DataSource\\ApiClientFactory\\ClientFactory.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\DataSource\\ApiClientFactory\\ClientFactory.cs",
+              "RelativeToolTip": "Infrastructure\\DataSource\\ApiClientFactory\\ClientFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwEUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:19:14.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BillingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Repository\\CreditCard\\BillingRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\CreditCard\\BillingRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Repository\\CreditCard\\BillingRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\CreditCard\\BillingRepository.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA3wF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:04:03.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Repository\\Request\\RequestRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\Request\\RequestRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Repository\\Request\\RequestRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\Request\\RequestRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:54:15.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Repository\\Base\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\Base\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\Repository\\Base\\BaseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\Base\\BaseRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:56:37.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ModelGatewayResponseBase.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Domain\\Entities\\ModelGateway\\ModelGatewayResponseBase.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ModelGateway\\ModelGatewayResponseBase.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Domain\\Entities\\ModelGateway\\ModelGatewayResponseBase.cs",
+              "RelativeToolTip": "Domain\\Entities\\ModelGateway\\ModelGatewayResponseBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:38:15.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PaymentApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\DataSource\\ApiClient\\Payment\\PaymentApiClient.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DataSource\\ApiClient\\Payment\\PaymentApiClient.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Infrastructure\\DataSource\\ApiClient\\Payment\\PaymentApiClient.cs",
+              "RelativeToolTip": "Infrastructure\\DataSource\\ApiClient\\Payment\\PaymentApiClient.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwGUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:33:11.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IManageLanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Domain\\ShareData\\IManageLanguageService.cs",
+              "RelativeDocumentMoniker": "Domain\\ShareData\\IManageLanguageService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Domain\\ShareData\\IManageLanguageService.cs",
+              "RelativeToolTip": "Domain\\ShareData\\IManageLanguageService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA3wAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:37:22.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\appsettings.json",
+              "RelativeDocumentMoniker": "LAHJA\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\appsettings.json",
+              "RelativeToolTip": "LAHJA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T01:10:01.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "NavMenuItems.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\Shared\\NavMenuItems.razor",
+              "RelativeDocumentMoniker": "LAHJA\\Shared\\NavMenuItems.razor",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\Shared\\NavMenuItems.razor",
+              "RelativeToolTip": "LAHJA\\Shared\\NavMenuItems.razor",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T01:01:27.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "LAHJA\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "LAHJA\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T01:01:17.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "LAHJA\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "LAHJA\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T00:48:37.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Spaces.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Components\\ProFile\\Settings\\Spaces.razor",
+              "RelativeDocumentMoniker": "LAHJA\\UI\\Components\\ProFile\\Settings\\Spaces.razor",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Components\\ProFile\\Settings\\Spaces.razor",
+              "RelativeToolTip": "LAHJA\\UI\\Components\\ProFile\\Settings\\Spaces.razor",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T23:27:09.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Subscription.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Components\\ProFile\\Settings\\Subscription.razor",
+              "RelativeDocumentMoniker": "LAHJA\\UI\\Components\\ProFile\\Settings\\Subscription.razor",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Components\\ProFile\\Settings\\Subscription.razor",
+              "RelativeToolTip": "LAHJA\\UI\\Components\\ProFile\\Settings\\Subscription.razor",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwEEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T23:09:07.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProfileTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\Data\\UI\\Templates\\Profile\\ProfileTemplate.cs",
+              "RelativeDocumentMoniker": "LAHJA\\Data\\UI\\Templates\\Profile\\ProfileTemplate.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\Data\\UI\\Templates\\Profile\\ProfileTemplate.cs",
+              "RelativeToolTip": "LAHJA\\Data\\UI\\Templates\\Profile\\ProfileTemplate.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAEwDYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:17:46.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LAHJAMappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\Mappings\\LAHJAMappingConfig.cs",
+              "RelativeDocumentMoniker": "LAHJA\\Mappings\\LAHJAMappingConfig.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\Mappings\\LAHJAMappingConfig.cs",
+              "RelativeToolTip": "LAHJA\\Mappings\\LAHJAMappingConfig.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAEwIgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:12:45.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SubscriptionTemplate.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Templates\\Profile\\SubscriptionTemplate.razor",
+              "RelativeDocumentMoniker": "LAHJA\\UI\\Templates\\Profile\\SubscriptionTemplate.razor",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Templates\\Profile\\SubscriptionTemplate.razor",
+              "RelativeToolTip": "LAHJA\\UI\\Templates\\Profile\\SubscriptionTemplate.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T23:09:22.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SettingshomProfile.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Components\\ProFile\\SettingshomProfile.razor",
+              "RelativeDocumentMoniker": "LAHJA\\UI\\Components\\ProFile\\SettingshomProfile.razor",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Components\\ProFile\\SettingshomProfile.razor",
+              "RelativeToolTip": "LAHJA\\UI\\Components\\ProFile\\SettingshomProfile.razor",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T23:29:44.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TemplateSpaces.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Templates\\Profile\\TemplateSpaces.razor",
+              "RelativeDocumentMoniker": "LAHJA\\UI\\Templates\\Profile\\TemplateSpaces.razor",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Templates\\Profile\\TemplateSpaces.razor",
+              "RelativeToolTip": "LAHJA\\UI\\Templates\\Profile\\TemplateSpaces.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T23:27:24.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "T2Speech.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Components\\StudioLahjaAi\\T2Speech.razor",
+              "RelativeDocumentMoniker": "LAHJA\\UI\\Components\\StudioLahjaAi\\T2Speech.razor",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Components\\StudioLahjaAi\\T2Speech.razor",
+              "RelativeToolTip": "LAHJA\\UI\\Components\\StudioLahjaAi\\T2Speech.razor",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAAAP0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T23:37:29.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserResponseBase.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Domain\\ShareData\\Profile\\UserResponseBase.cs",
+              "RelativeDocumentMoniker": "Domain\\ShareData\\Profile\\UserResponseBase.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\Domain\\ShareData\\Profile\\UserResponseBase.cs",
+              "RelativeToolTip": "Domain\\ShareData\\Profile\\UserResponseBase.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:43:05.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DataBuildUserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\Data\\UI\\Components\\Profile\\ProFileModel\\DataBuildUserProfile.cs",
+              "RelativeDocumentMoniker": "LAHJA\\Data\\UI\\Components\\Profile\\ProFileModel\\DataBuildUserProfile.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\Data\\UI\\Components\\Profile\\ProFileModel\\DataBuildUserProfile.cs",
+              "RelativeToolTip": "LAHJA\\Data\\UI\\Components\\Profile\\ProFileModel\\DataBuildUserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:43:31.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserAvaterCard.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Components\\ProFile\\Cards\\UserAvaterCard.razor",
+              "RelativeDocumentMoniker": "LAHJA\\UI\\Components\\ProFile\\Cards\\UserAvaterCard.razor",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\LAHJA-V1\\LAHJA\\UI\\Components\\ProFile\\Cards\\UserAvaterCard.razor",
+              "RelativeToolTip": "LAHJA\\UI\\Components\\ProFile\\Cards\\UserAvaterCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T23:44:40.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
